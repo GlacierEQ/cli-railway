@@ -40,7 +40,7 @@ hyper = { version = "1.5.2", features = ["server", "http1"] }
 hyper-util = { version = "0.1.10", features = ["tokio"] }
 base64 = "0.22.1"
 http-body-util = "0.1.2"
-rand = "0.8.5"
+rand = "0.8.6"
 hostname = "0.4.0"
 indicatif = "0.17.9"
 indoc = "2.0.5"
@@ -50,7 +50,7 @@ textwrap = "0.16.1"
 gzp = { version = "0.11.3", default-features = false, features = [
   "deflate_rust",
 ] }
-tar = "0.4.43"
+tar = "0.4.45"
 synchronized-writer = "1.1.11"
 ignore = "0.4.23"
 num_cpus = "1.16.0"
